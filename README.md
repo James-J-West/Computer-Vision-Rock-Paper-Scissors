@@ -219,6 +219,4 @@ def play():
 
 ## Conclusions
 
-- Maybe write a conclusion to the project, what you understood about it and also how you would improve it or take it further.
-
-- Read through your documentation, do you understand everything you've written? Is everything clear and cohesive?
+- This project helped me understand that breaking down the project into achievable goals can help understand whats going on and figure out what the next step is and how to do it. To improve, i would move the round timer onto the screen and make it so the camera doesnt close every round
